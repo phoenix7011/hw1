@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  width: 1264px;
+  height: 880px;
+  background-color: #EDF2C5;
+}
+#first{
+  font-family: Arial Black;
+  font-size: 20px;
+  color: #778a50;
+  width: 271px;
+  height: 42px;
+  margin-left: 160px;
+  margin-right: 463px;
+  margin-bottom: 20px;
+  float: left;
+}
+#fb{
+  margin-top: 50px;
+  float: left;
+}
+#fb img{
+  margin-right: 10px;
+  float: left;
+}
+#log{
+  width: 60px;
+  height: 25px;
+  border-style:solid;
+  border-radius: 3px;
+  border-width: 1px;
+  float: left;
+}
+#log h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 5px;
+    color: #778A50;
+}
+#jo{
+  margin-left: 10px;
+  width: 50px;
+  height: 25px;
+  border-style:solid;
+  border-radius: 3px;
+  border-width: 1px;
+  float: left;
+}
+#jo h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 5px;
+    color: #778A50;
+}
+
+nav{
+  margin-top: 10px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-bottom: 20px;
+  width: 940px;
+  height: 44px;
+  background-color: #778a50;
+  float: left;
+}
+nav h3{
+  float: left;
+  font-size: 16px;
+  font-family: Arial Black;
+  color: #EDF2C5;
+  margin: 10px 30px 16px 30px;
+}
+#pic{
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-bottom: 25px;
+}
+#veg{
+  margin-left: 160px;
+  width: 445px;
+  height: 45px;
+  background-color: #778a50;
+  float: left;
+}
+#veg h3{
+  margin: 10px 30px 16px 30px;
+  font-size:16px;
+  font-family: Arial Black;
+  color: #DEF2C5;
+}
+#veg img{
+  padding-top: 10px;
+}
+#m img{
+  padding-top: 10px;
+  margin-right: 12px;
+  float: left;
+}
+#con{
+  margin-left: 50px;
+  width: 445px;
+  height: 45px;
+  background-color: #778a50;
+  float: left;
+}
+#con h3{
+  margin: 10px 30px 16px 30px;
+  font-size:16px;
+  font-family: Arial Black;
+  color: #DEF2C5;
+}
+#word{
+  margin-top: 25px;
+  width: 413px;
+  height: 110px;
+  background-color: #F7FBDA;
+  padding: 5px 16px 25px 16px;
+}
+#word p{
+  line-height: 1.33;
+  font-size: 12px;
+  font-family: Arial;
+  color: #7D7D7D;
+}
+footer{
+  width: 1264px;
+  height: 60px;
+  background-color:#778a50;
+  float: left;
+  margin-top: 35px;
+  position: absolute;
+  bottom: 0;
+}
+footer p{
+  padding-top: 12px;
+  font-family: Arial;
+  font-size: 12px;
+  color: #EDF2C5;
+  text-align: center;
+}
